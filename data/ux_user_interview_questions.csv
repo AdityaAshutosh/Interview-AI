@@ -1,0 +1,51 @@
+Question ID,Question,Context,Response Type,Category,Follow-up
+1,Can you describe a typical day when you use our product?,Usage,Open-ended,General,How do you feel when using the product?
+2,What problem does our product help you solve?,Usage,Open-ended,General,Can you give a specific example?
+3,How often do you use our product?,Usage,Open-ended,General,What influences this frequency?
+4,Which features do you use the most?,Usage,Open-ended,Features,Why are these features important to you?
+5,Have you encountered any issues while using our product?,Usage,Open-ended,Problems,Can you describe a specific instance?
+6,What do you like most about our product?,Experience,Open-ended,Positive,Why is that your favorite feature?
+7,What do you like least about our product?,Experience,Open-ended,Negative,How can we improve this aspect?
+8,How does our product compare to others you’ve used?,Experience,Open-ended,Comparative,What are the main differences?
+9,Can you describe a time when our product didn’t meet your expectations?,Experience,Open-ended,Problems,What could have made it better?
+10,How easy is it to use our product?,Experience,Open-ended,Usability,What makes it easy or difficult to use?
+11,How did you first learn about our product?,Discovery,Open-ended,General,What attracted you to it?
+12,What motivated you to start using our product?,Discovery,Open-ended,Motivation,What were your expectations?
+13,What was your initial impression of our product?,Discovery,Open-ended,First Impressions,Has your perception changed over time?
+14,Can you walk me through how you use our product?,Usage,Open-ended,General,What steps do you take?
+15,What is the most frustrating part of using our product?,Experience,Open-ended,Problems,Can you suggest a way to improve it?
+16,How does our product fit into your daily routine?,Usage,Open-ended,General,What role does it play?
+17,"Have you ever stopped using our product? If so, why?",Experience,Open-ended,Retention,What brought you back?
+18,What features do you wish our product had?,Features,Open-ended,Wish List,How would these features benefit you?
+19,How do you feel about the design of our product?,Experience,Open-ended,Design,What do you like or dislike about it?
+20,How likely are you to recommend our product to others?,Experience,Open-ended,Net Promoter Score,Why did you give that score?
+21,What other products do you use in conjunction with ours?,Usage,Open-ended,Integration,How do they work together?
+22,Have you customized our product to better meet your needs?,Usage,Open-ended,Customization,What changes did you make?
+23,What is your favorite feature of our product?,Experience,Open-ended,Positive,What makes it your favorite?
+24,How often do you need support when using our product?,Usage,Open-ended,Support,What kind of support do you usually need?
+25,Can you describe your most recent experience with our product?,Experience,Open-ended,Recent Experience,What stood out to you?
+26,What tasks do you find most difficult with our product?,Experience,Open-ended,Difficulties,How do you work around them?
+27,How do you feel about the updates we’ve made to our product?,Experience,Open-ended,Updates,Which update was most beneficial?
+28,What devices do you use our product on?,Usage,Open-ended,Devices,Do you prefer one device over another?
+29,"Have you ever recommended our product to someone? If so, why?",Experience,Open-ended,Referrals,What feedback did they give you?
+30,How do you find our product’s user interface?,Experience,Open-ended,Usability,What would you change about it?
+31,What kind of training did you need to start using our product?,Usage,Open-ended,Onboarding,Was the training sufficient?
+32,How do you keep up with new features or updates to our product?,Usage,Open-ended,Updates,Do you find the updates helpful?
+33,What is the main benefit you get from our product?,Experience,Open-ended,Benefits,Can you quantify this benefit?
+34,What are the top three features you use in our product?,Experience,Open-ended,Features,How do these features help you?
+35,Can you describe a scenario where our product exceeded your expectations?,Experience,Open-ended,Positive,What made it exceptional?
+36,How intuitive do you find our product?,Experience,Open-ended,Usability,What aspects are intuitive or not?
+37,What would make our product more valuable to you?,Experience,Open-ended,Improvements,Can you prioritize these improvements?
+38,How does our product impact your productivity?,Usage,Open-ended,Productivity,Can you provide an example?
+39,What was the last task you completed using our product?,Experience,Open-ended,Task Analysis,How did our product assist you?
+40,How do you feel about the performance of our product?,Experience,Open-ended,Performance,Have you encountered any performance issues?
+41,What features do you think are missing from our product?,Features,Open-ended,Wish List,How would you use these features?
+42,Can you describe a time when you needed help with our product?,Experience,Open-ended,Support,How was your support experience?
+43,What do you think about our product’s pricing?,Experience,Open-ended,Pricing,Do you find it reasonable for the value?
+44,What do you do if you encounter a problem with our product?,Discovery,Open-ended,Problems,How quickly is it usually resolved?
+45,What social media platforms do you use to discuss our product?,Experience,Open-ended,Social Media,What kind of discussions do you have?
+46,How do you feel about our product’s branding?,Experience,Open-ended,Branding,Does the branding align with your perception of the product?
+47,What improvements would you suggest for our product’s onboarding process?,Experience,Open-ended,Onboarding,What was the most confusing part?
+48,How does our product help you achieve your goals?,Experience,Open-ended,Goals,Can you give a specific example?
+49,What is the biggest barrier to using our product?,Experience,Open-ended,Barriers,How do you overcome this barrier?
+50,How do you typically find out about new features or updates?,Usage,Open-ended,Updates,Do you find the information clear and helpful?
